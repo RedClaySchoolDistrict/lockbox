@@ -1,4 +1,4 @@
-<site-list version="2">
+<site-list version="3">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
@@ -17,10 +17,6 @@
     <open-in>IE11</open-in>
   </site>
   <site url="docdirerp.dti.state.de.us/ddrint/servlet/ddrintee">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="java.com">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
