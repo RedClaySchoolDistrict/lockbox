@@ -1,0 +1,23 @@
+<site-list version="1">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>07/22/2021 19:09:06</date-created>
+  </created-by>
+  <site url="phrstpd.erp.state.de.us">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="fsfpd.erp.state.de.us">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="docdirerp.dti.state.de.us/bannerCheck.htm">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="docdirerp.dti.state.de.us/ddrint/servlet/ddrintee">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
