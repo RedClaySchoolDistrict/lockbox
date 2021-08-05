@@ -1,14 +1,78 @@
-<site-list version="6">
+<site-list version="7">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
     <date-created>07/22/2021 19:09:06</date-created>
   </created-by>
-  <site url="phrstpd.erp.state.de.us">
+   <site url="docdir.dti.state.de.us">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="extranet.phrst.state.de.us">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="phrsttst.erp.state.de.us">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="phrsttst.erp.state.de.us/psp/hr91st/EMPLOYEE/HRMS/">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="phrstdev.erp.state.de.us">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="phrstdev.erp.state.de.us/psp/hr91dv/EMPLOYEE/HRMS/">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="phrstprd.erp.state.de.us">
     <compat-mode>IE11</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="fsfpd.erp.state.de.us">
+  <site url="phrstprd.erp.state.de.us/psp/hr91pd/EMPLOYEE/PSFT_HRPD/h/">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="portalprd.erp.state.de.us">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="portalprd.erp.state.de.us/psp/ps91pd/EMPLOYEE/EMPL/h/">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="phrsttrn.erp.state.de.us">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="phrsttrn.erp.state.de.us/psp/hr91tr/EMPLOYEE/PSFT_HRTR/h/">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="employeeselfservice.omb.delaware.gov">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="employeeselfservice.omb.delaware.gov/upk/ess/PlayerPackage/toc0.html">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="docdirerp.dti.state.de.us/ddrint/servlet/ddrintee" flagged="false">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="docdir.dti.state.de.us/bannerCheck.htm" flagged="false">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="portal.erp.state.de.us/psp/ps92pd/">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="portal.erp.state.de.us">
     <compat-mode>IE11</compat-mode>
     <open-in>IE11</open-in>
   </site>
@@ -16,7 +80,35 @@
     <compat-mode>IE11</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="portal.erp.state.de.us">
+  <site url="phrstpd.erp.state.de.us">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="phrstdv.erp.state.de.us">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="phrstcf.erp.state.de.us">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="phrstat.erp.state.de.us">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="phrstst.erp.state.de.us">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="phrstsc.erp.state.de.us">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="phrsttr.erp.state.de.us">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="fsfpd.erp.state.de.us">
     <compat-mode>IE11</compat-mode>
     <open-in>IE11</open-in>
   </site>
