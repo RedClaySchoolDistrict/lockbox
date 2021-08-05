@@ -116,4 +116,8 @@
     <compat-mode>IE11</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="sso.delaware.gov">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
 </site-list>
